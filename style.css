@@ -1,8 +1,10 @@
-.container{
+.container {
     background-color: black;
     height: 600px;
     width: 600px;
     border: 10px solid brown;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .firstgap{
